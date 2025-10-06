@@ -1,7 +1,7 @@
 <!-- azikdev@github:~$ whoami   -->
 
-┌──(azikbro<img src="kali_icon.svg" width="15" height="15" alt="kali-linux"/>  github)      
-└─# whoami      
+┌──(azikbro<img src="kali_icon.svg" width="15" height="15" alt="kali-linux"/> github)  
+└─# whoami  
 ┌──────────────────────────────────────────┐  
 │ 🔵 Running identity.sh... |  
 └──────────────────────────────────────────┘
@@ -15,7 +15,8 @@ OUTPUT:
 │ STATUS │ idle...  
 └───────────────┘
 
-azikdev@github:~$ check_skills  
+┌──(azikbro<img src="kali_icon.svg" width="15" height="15" alt="kali-linux"/> github)  
+└─# check_skills  
 ┌──────────────────────────────────────────┐  
 │ 🔵 Initializing skill matrix...│  
 └──────────────────────────────────────────┘
@@ -32,7 +33,8 @@ azikdev@github:~$ check_skills
 ║ Django Rest API ▰▰▰▰▰▱▱▱▱▱ 5 ║  
 ╚═══════════════════════════════════════════════════════════╝
 
-azikdev@github:~$ run status.sh
+┌──(azikbro<img src="kali_icon.svg" width="15" height="15" alt="kali-linux"/> github)  
+└─# run status.sh
 
 ┌──────────────────────────────────────────┐  
 │ 🔵 Checking current status... │  
@@ -50,4 +52,5 @@ azikdev@github:~$ contact --list
 [Telegram](https://t.me/azikdev02)  
 [Instagram](https://www.instagram.com/_azik__bro_/)
 
-azikdev@github:~$
+┌──(azikbro<img src="kali_icon.svg" width="15" height="15" alt="kali-linux"/> github)  
+└─#
