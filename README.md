@@ -1,6 +1,6 @@
 <!-- azikdev@github:~$ whoami   -->
 
-┌──(azikbro<img src="kali_icon.svg" width="15" height="15" alt="kali-linux"/>) 
+┌──(azikbro<img src="kali_icon.svg" width="15" height="15" alt="kali-linux"/>  github)      
 └─# whoami 
 ┌──────────────────────────────────────────┐  
 │ 🔵 Running identity.sh... |  
