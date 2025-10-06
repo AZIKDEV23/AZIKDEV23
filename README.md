@@ -55,6 +55,6 @@ azikdev@github:~$ contact --list
 ┌──(azikbro<img src="kali_icon.svg" width="15" height="15" alt="kali-linux"/> github)  
 └─#
 
-┌──────────────┐
-│  salom123    │
-└──────────────┘
+┌──────────────┐    
+│  salom123    │    
+└──────────────┘    
