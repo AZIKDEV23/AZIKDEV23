@@ -15,9 +15,9 @@
 
 OUTPUT:  
 ┌───────────────┐  
-│ azikdev │ FullStack WEB Developer  
-│ LOCATION │ Navoiy  
-│ STATUS │ idle...  
+│ azikdev ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎│ FullStack WEB Developer  
+│ LOCATION  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ │ Navoiy  
+│ STATUS  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ │ idle...  
 └───────────────┘
 
 ┌──(azikbro<img src="kali_icon.svg" width="15" height="15" alt="kali-linux"/> github)  
